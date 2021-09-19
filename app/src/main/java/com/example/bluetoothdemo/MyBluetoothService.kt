@@ -9,6 +9,7 @@ import java.io.InputStream
 import java.io.OutputStream
 
 private const val TAG = "MY_APP_DEBUG_TAG"
+//New branch
 // https://developer.android.com/guide/topics/connectivity/bluetooth/transfer-data
 // Defines several constants used when transmitting messages between the
 // service and the UI.
